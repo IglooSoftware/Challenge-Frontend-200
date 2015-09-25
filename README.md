@@ -1,4 +1,4 @@
-# Code-Challenge-B
+# Code Challenge B
 
 This challenge consists of creating a marble machine that produces sequences of marbles. This machine takes as input one single argument, an integer from 1 to 5, that determines the set of colours available for making a marble sequence.
 Your task is to write a web application that runs in a browser that outputs all of the possible marble sequences that this machine could possibly generate. Please return to us:
@@ -39,6 +39,6 @@ Sample Input:
 
 Sample Output:
 
-
+![alt text](https://github.com/IglooSoftware/Code-Challenge-B/blob/master/Output.png "Output screenshot")
 
 Submit your response to careers@igloosoftware.com
