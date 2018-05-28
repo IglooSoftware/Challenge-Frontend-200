@@ -25,7 +25,7 @@ Your program should generate the list of all possible marble sequences that coul
 `2`  
 
 #### Sample Output
-![alt text](static/marble-output-for-2.png "Sample Output Image")
+![](static/marble-output-for-2.png | width=100)
  
 ### Constraints
 1. The machine is allowed to use any colour only once per sequence, or not at all.
