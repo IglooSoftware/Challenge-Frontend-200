@@ -39,6 +39,6 @@ Sample Input:
 
 Sample Output:
 
-![alt text](https://github.com/IglooSoftware/Code-Challenge-B/blob/master/Output.png "Output screenshot")
+![alt text](https://github.com/IglooSoftware/Challenge-Frontend-200/blob/master/Output.png "Output screenshot")
 
 Submit your response to careers@igloosoftware.com
