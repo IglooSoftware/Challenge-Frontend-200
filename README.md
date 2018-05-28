@@ -25,7 +25,7 @@ Your program should generate the list of all possible marble sequences that coul
 `2`  
 
 #### Sample Output
-![alt text](https://github.com/IglooSoftware/Challenge-Frontend-200/blob/master/static/marble-output-for-2.png "Sample Output Image")
+![alt text](static/marble-output-for-2.png "Sample Output Image")
  
 ### Constraints
 1. The machine is allowed to use any colour only once per sequence, or not at all.
@@ -33,7 +33,7 @@ Your program should generate the list of all possible marble sequences that coul
 3. The machine must generate at least one marble per sequence.
 
 ### User Interface
-We have provided [mockups](/mockups) of the expected UI of your marble machine, it should look as close as possible to the mockups.
+We have provided [mockups](mockups/) of the expected UI of your marble machine, it should look as close as possible to the mockups.
 There are 3 configuration settings that can visually affect the output:
 
 **Marble Style** – Fill or outline  
